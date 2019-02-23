@@ -1,0 +1,17 @@
+
+fev 22, 2019 20:03:50.68 NEW SESSION
+fev 22, 2019 20:03:50.68 [6028:5372:0222/200350.672:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+fev 22, 2019 20:03:50.70 [9032:3120:0222/200350.687:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+fev 22, 2019 20:03:50.70 [6292:3472:0222/200350.672:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+fev 22, 2019 20:03:50.70 [9032:3120:0222/200350.687:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Aluno\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Aluno\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+fev 22, 2019 20:03:50.70 [6028:5372:0222/200350.672:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Aluno\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Aluno\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+fev 22, 2019 20:03:50.73 [9032:3120:0222/200350.687:ERROR:disk_cache.cc(184)] Unable to create cache
+fev 22, 2019 20:03:50.75 [9032:3120:0222/200350.687:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+fev 22, 2019 20:03:50.75 [6292:3472:0222/200350.672:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Aluno\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Aluno\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+fev 22, 2019 20:03:50.75 [6028:5372:0222/200350.672:ERROR:disk_cache.cc(184)] Unable to create cache
+fev 22, 2019 20:03:50.76 [6292:3472:0222/200350.672:ERROR:disk_cache.cc(184)] Unable to create cache
+fev 22, 2019 20:03:50.76 [6028:5372:0222/200350.672:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+fev 22, 2019 20:03:50.76 [6292:3472:0222/200350.672:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+fev 22, 2019 20:03:53.09 Abrindo em uma sessão de navegador existente.
+fev 22, 2019 20:03:53.40 Abrindo em uma sessão de navegador existente.
+fev 22, 2019 20:03:54.03 Abrindo em uma sessão de navegador existente.

@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\PCII-Eduardo\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3704415020.index
+1089827000.index
+2936596959.index
+3389263055.index
+1002939410.index
+4030895075.index
